@@ -2,7 +2,6 @@ import logging
 import csv
 from helpers import tvcon
 
-
 def execute(config, filename):
     try:
         with open(filename, newline='') as macro_file:
