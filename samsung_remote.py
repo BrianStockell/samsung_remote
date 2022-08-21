@@ -93,13 +93,13 @@ def main():
 
     config = {
         'name': 'python remote',
-        'ip': '10.0.1.2',
+        'ip': '10.41.77.202',
         'mac': '00-AB-11-11-11-11',
         'description': 'samsungctl',
         'id': 'PC',
         'host': '',
         'port': 55000,
-        'method': 'websocket',
+        'method': 'legacy',
         'timeout': 0,
     }
 
